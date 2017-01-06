@@ -1,0 +1,22 @@
+######################################       #  #  ######  ##       ##   #####
+# Criado por Kami. Forum SuperNation #       # #   #    #  # #     # #     #
+######################################       ##    #    #  #  #   #  #     #
+#Acesse: SuperNation.com.br          #       # #   # ## #  #   # #   #     #
+######################################       #  #  #    #  #    #    #   #####
+# MySQL
+Use MySQL: false
+dbname: 'teste' #Nome da database
+url: 'localhost' #Endereço
+user: 'root' #Usuario
+senha: '1234' #Senha
+
+# Configuracoes do plugin
+Prefixo: '&f[&2Perfil&f]'
+Titulo do inventario: '&f[&cKami&eLegal&f]'
+Abriu: '&c Voce está vendo agora o perfil de @player'
+Sem permissao: '&c Voce nao tem permissao para usar este comando'
+Criado: '&c voce criou seu perfil com sucesso, agora adicione itens.'
+Ja criado: '&c Voce ja criou um perfil.'
+Adicionou: '&c Voce adicionou com sucesso o seguinte item ao seu perfil: '
+Crie um perfil: '&c Voce precisa criar um perfil, para poder adicionar itens.'
+Impossivel: '&c Nao foi possivel ver o perfil de @player, porquê ele ainda nao criou um perfil, ou está offline'

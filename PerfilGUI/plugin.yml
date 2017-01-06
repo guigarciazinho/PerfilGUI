@@ -1,0 +1,7 @@
+name: KamiPerfil
+main: me.guigarciazinho.Perfil.Principal
+version: 2.0
+description: Olha o inventario do jogador alvo
+commands:
+  perfil:
+    description: Exibe os itens do jogador alvo em um menu GUI
